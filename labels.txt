@@ -1,0 +1,5 @@
+0 Jump
+1 Uppercut
+2 Kick
+3 Plank
+4 Nothing
